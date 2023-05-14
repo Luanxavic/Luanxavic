@@ -3,7 +3,9 @@
 Bem vindos ao meu pérfil.
 
 🔭 Desenvolvendo em Front end
+
 🌱 Estudando HTML+CSS+JS+TYPESCRIPT
+
 😄 Pronouns: ele/dele
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Luanxavic)
