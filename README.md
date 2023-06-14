@@ -4,7 +4,7 @@ Bem vindos ao meu pérfil.
 
 🔭 Desenvolvendo em Front end
 
-🌱 Estudando HTML|CSS|JavaScript|TypeScript|React
+🌱 Estudando HTML |CSS |JavaScript |TypeScript |React
 
 😄 Pronouns: ele/dele
 
