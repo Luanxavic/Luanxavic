@@ -2,7 +2,7 @@
 
 Bem vindos ao meu pérfil.
 
-🔭 Desenvolvendo em Front end
+🔭 Desenvolvedor Front-End
 
 🌱 Estudando HTML |CSS |JavaScript |TypeScript |React
 
