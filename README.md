@@ -4,14 +4,12 @@ Bem vindos ao meu pérfil.
 
 🔭 Desenvolvendo em Front end
 
-🌱 Estudando HTML+CSS+JS+TYPESCRIPT
+🌱 Estudando HTML+CSS+JS+TYPESCRIPT+React
 
 😄 Pronouns: ele/dele
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Luanxavic)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanxavic/)
-
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=devLuan&show_icons=true&theme=onedark)
 
 
 ### Tecnologias que estou aplicando no meu dia a dia
