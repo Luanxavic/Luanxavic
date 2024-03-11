@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD!!</h1>
 
 <h1 align="center">
-<img src="https://github.com/Luanxavic/LuanXavic/assets/132952580/76f6d553-78da-437c-b1f4-7e7b17213cc2" style="display: block; margin: auto; width: 350px;">
+<img src="https://github.com/Luanxavic/LuanXavic/assets/132952580/76f6d553-78da-437c-b1f4-7e7b17213cc2" style="display: block; margin: auto; width: 250px;">
 </h1>
 
 Bem vindo! Me chamo Luan, sou estudante de Ciências da Computação.
