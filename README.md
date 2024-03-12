@@ -14,12 +14,6 @@ Bem vindo! Me chamo Luan, sou estudante de Ciências da Computação.
 <img src="https://github.com/Luanxavic/LuanXavic/assets/132952580/76f6d553-78da-437c-b1f4-7e7b17213cc2" style="display: block; margin: auto; width: 250px;">
 </h1>
 
-  ---
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanxavic/)
-
-  ---
-
   ## <h1 align="center"> Habilidades</h1>
 
   <div align="center" style="flex-basis: 48%;">
@@ -29,5 +23,11 @@ Bem vindo! Me chamo Luan, sou estudante de Ciências da Computação.
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+
+    ---
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanxavic/)
+
+     ---
   
 
