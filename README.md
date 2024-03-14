@@ -1,19 +1,20 @@
 <h1 align="center">Bem vindo! Me chamo Luan, sou estudante de Ciências da Computação.</h1>
 
 
-<h3 align="center">Atualmente estou estudando Ciências de dados e suas nuances.</h3>
+<h3 align="center">Atualmente estou estudando Java, desenvolvimento mobile com Kotlin e suas nuances.</h3>
 
   
 
   <div align="center" style="flex-basis: 48%;">
-    <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+    <img align="center" alt="Luan-Ko" height="30" width="60" src="https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
+    <img align="center" alt="Luan-Ko" height="30" width="78" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img align="center" alt="Luan-Ko" height="30" width="85" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img align="center" alt="Luan-Ko" height="30" width="85" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Luan-Ko" height="30" width="100" src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    </div>
 
-
+    
+    
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanxavic/)
 
   
