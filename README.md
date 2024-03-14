@@ -13,9 +13,13 @@
     <img align="center" alt="Luan-Ko" height="30" width="100" src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     </div>
 
+  ##
     
+  <div> 
+  <a href="https://www.linkedin.com/in/luancaetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+ </div>
     
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanxavic/)
+  
 
   
 
