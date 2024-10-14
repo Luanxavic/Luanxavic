@@ -1,9 +1,9 @@
 <h1 align="center">Bem vindo! Me chamo Luan. Sou desenvolvedor de software.</h1>
 
 
-<h3 align="center">"Tenho especialidade com javaScript, Node.js e React para desenvolvimento de aplicações web."</h3>
+<h3 align="center">"Tenho especialidade em JavaScript, Node.js, React e outras habilidades para o desenvolvimento de aplicações web."</h3>
 
-e
+
 
   <div align="center" style="flex-basis: 48%;">
     <img align="center" alt="Luan-Ko" height="30" width="105" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -14,7 +14,7 @@ e
     <img align="center" alt="Luan-Ko" height="30" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Luan-Ko" height="30" width="100" src="https://img.shields.io/badge/Unity mobile-100000?style=for-the-badge&logo=unity&logoColor=whit">
     
-    </div>
+  </div>
 
   ##
     
