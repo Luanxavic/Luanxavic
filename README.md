@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo! Me chamo Luan e sou desenvolvedor de aplicações web.</h1>
+<h1 align="center">Bem-vindo! Me chamo Luan e sou desenvolvedor Android.</h1>
 
 
 <h3 align="center">"Criando interfaces responsivas que se ajustam a diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente."</h3>
@@ -6,13 +6,12 @@
 
 
   <div align="center" style="flex-basis: 48%;">
-    <img align="center" alt="Luan-Ko" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Luan-Ko" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Luan-Ko" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Luan-Ko" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Luan-Ko" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Luan-Ko" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Luan-Ko" height="30" width="80" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img align="center" alt="Luan-Ko" height="30" width="80" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="Luan-Ko" height="30" width="80" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   </div>
+ 
+  
 
   ##
     
