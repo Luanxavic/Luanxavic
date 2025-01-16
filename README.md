@@ -1,6 +1,3 @@
-<h1 align="center">Bem-vindo! Me chamo Luan e sou desenvolvedor Android.</h1>
-
-
 <h3 align="center">"Criando interfaces responsivas que se ajustam a diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente."</h3>
 
 
